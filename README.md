@@ -10,9 +10,9 @@
 - King moves one space in any direction
 
 ### Pawn-Specific Rules
-- *En Passant*:
+- *En Passant*: **(WIP)**
 - Promotion: If a pawn reaches the opposite end of the board it began at, it is promoted to a piece of the player's choice
 
 ## Features
-- Match timer (WIP)
-- Move log (WIP)
+- Match timer **(WIP)**
+- Move log **(WIP)**
