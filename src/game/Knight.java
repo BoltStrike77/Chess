@@ -1,5 +1,7 @@
 package game;
 
-public class Knight {
+import javax.swing.JLabel;
+
+public class Knight extends JLabel {
     
 }

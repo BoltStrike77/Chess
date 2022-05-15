@@ -1,5 +1,7 @@
 package game;
 
-public class Rook {
+import javax.swing.JLabel;
+
+public class Rook extends JLabel {
     
 }

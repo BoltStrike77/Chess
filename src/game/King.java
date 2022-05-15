@@ -1,5 +1,7 @@
 package game;
 
-public class King {
+import javax.swing.JLabel;
+
+public class King extends JLabel {
     
 }

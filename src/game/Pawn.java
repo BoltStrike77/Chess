@@ -1,5 +1,7 @@
 package game;
 
-public class Pawn {
+import javax.swing.JLabel;
+
+public class Pawn extends JLabel {
     
 }

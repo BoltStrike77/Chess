@@ -1,5 +1,7 @@
 package game;
 
-public class Bishop {
+import javax.swing.JLabel;
+
+public class Bishop extends JLabel {
     
 }
