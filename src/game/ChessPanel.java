@@ -19,8 +19,6 @@ public class ChessPanel extends JPanel {
         // set up panel
         this.setPreferredSize(SIZE);
 
-        
-
         // set up board
         boardPanel = new JPanel();
         boardLBL = new JLabel(boardIcon);
@@ -30,7 +28,25 @@ public class ChessPanel extends JPanel {
         this.add(boardPanel, BorderLayout.CENTER);
         this.add(infoPanel, BorderLayout.WEST);
         this.add(logPanel, BorderLayout.EAST);
+
+        gameStart();
     }
 
-    
+    private void gameStart() {
+        startTimer();
+        setUpBoard();
+        makeClickable();
+    }
+
+    private void makeClickable() {
+
+    }
+
+    private void setUpBoard() {
+
+    }
+
+    private void startTimer() {
+
+    }
 }
