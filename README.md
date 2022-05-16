@@ -10,9 +10,12 @@
 - King moves one space in any direction
 
 ### Pawn-Specific Rules
-- *En Passant*: **(WIP)**
+- *En Passant*: To perform this capture, you must take your opponent's pawn as if it had moved just one square. You move your pawn diagonally to an adjacent square, one rank farther from where it had been, on the same file where the enemy's pawn is, and remove the opponent's pawn from the board. (see the Chess.com website for a more detailed description)
 - Promotion: If a pawn reaches the opposite end of the board it began at, it is promoted to a piece of the player's choice
+
+Credit to Chess.com for the *<a href="https://www.chess.com/terms/en-passant">En Passant</a>* explanation
 
 ## Features
 - Match timer **(WIP)**
 - Move log **(WIP)**
+
