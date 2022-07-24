@@ -1,4 +1,4 @@
-# Chess
+# Chess (on pause right now)
 
 ## Pieces + Moves
 - Knight moves in an 'L' shape (ex. 2 spaces right, 1 space up) 
